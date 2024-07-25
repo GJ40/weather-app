@@ -51,7 +51,7 @@ The Weather App is a simple, user-friendly application that allows users to get 
 
 ## Screenshots
 
-![Weather App Screenshot](screenshots/screenshot - 1.png)
+![screenshots](screenshots/screenshot - 1.png)
 
 ## License
 
