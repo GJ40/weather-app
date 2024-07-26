@@ -1,6 +1,6 @@
 // Weather App Program
 
-const apiKey = "";
+const apiKey = "2d70184fe4ca0b86a23405b70dc0dc1a";
 const searchInput = document.querySelector(".search input");
 const searchBtn = document.querySelector(".searchBtn");
 const locationBtn = document.querySelector(".locationBtn");
