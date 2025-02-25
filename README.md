@@ -53,10 +53,6 @@ The Weather App is a simple, user-friendly application that allows users to get 
 
 <img src="screenshots/screenshot - 1.png" width="400px" alt="screenshotimg">
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to [OpenWeatherMap](https://openweathermap.org/) for providing the weather data API.
